@@ -10,3 +10,5 @@
 - 📫 How to reach me: Twitter - @nedu_kal, LinkedIn - https://www.linkedin.com/in/chinedukalu000
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Mentoring, Soccer,Travelling
+
+<img src="https://github-readme-stats.vercel.app/api?username=doxazovally&&show_icons=true&title_color=bb2acf&text_color=daf7dc&bg_color=151515">
